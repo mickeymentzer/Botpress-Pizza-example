@@ -1,0 +1,19 @@
+welcome: # this is the #welcome bloc referenced in index.js
+  - typing: true
+    text: 
+      - Welcome to Mickey's pizza joint, what can I do for you?
+
+goodbye:
+  - text: You are leaving because of reason {{reason}}
+    typing: true
+  - Hope to see you back again soon! # if no other properties, you can just send a strings
+
+orderpizza:
+  - text: I can help you order
+    typing: 2s
+  - What would you like today?
+
+sizepizza:
+  - text: Got it! You want a {{size}} pizza
+    typing: 2s
+  - What would you like on your {{size}} pizza?

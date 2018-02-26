@@ -1,0 +1,3 @@
+C:\AscendumBots\sample-bot\obj\Debug\sample-bot.njsprojResolveAssemblyReference.cache
+C:\AscendumBots\sample-bot\obj\Debug\sample-bot.njsproj.CoreCompileInputs.cache
+C:\AscendumBots\sample-bot\bin\Microsoft.NodejsTools.WebRole.dll
